@@ -5,10 +5,7 @@ This application is developed using HTML, CSS, JavaScript, React, NodeJS, MongoD
 
 # Glance of the Project
 
-![IMG_20240427_131152](https://github.com/aman808334/Event_Management/assets/75126254/9707f8aa-4d83-4e88-a7bb-0c5e8c6a98a7)
+![Screenshot (30)](https://github.com/aman808334/Event_Management/assets/75126254/61986a86-d36e-45a8-ad7c-4923e6a08319)
 
 
-![IMG_20240427_131305](https://github.com/aman808334/Event_Management/assets/75126254/3bb60dab-1259-4575-8661-288b26a3fca4)
-
-
-![IMG_20240427_131336](https://github.com/aman808334/Event_Management/assets/75126254/0d0008ac-8c94-41c7-bc17-557f2e914d65)
+![Screenshot (31)](https://github.com/aman808334/Event_Management/assets/75126254/02efd528-792f-4125-a7a7-12298e8cdba7)
